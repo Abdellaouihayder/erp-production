@@ -53,4 +53,3 @@ volumes:
 networks:
   odoo-network:
     driver: bridge
-    internal: true
